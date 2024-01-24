@@ -1,5 +1,3 @@
-Claro, aquí tienes un ejemplo de README para tu API Pokémon en JavaScript:
-
 # API Pokémon
 
 ¡Bienvenido a la API Pokémon! Esta API está desarrollada en JavaScript utilizando Express y algunas librerías populares para pruebas.
