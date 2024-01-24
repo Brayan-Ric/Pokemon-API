@@ -58,7 +58,7 @@
 - **PUT /team**: Actualiza la información del equipo Pokémon.
 
 ¡Diviértete explorando y desarrollando con la API Pokémon!
-```
+
 
 
 
